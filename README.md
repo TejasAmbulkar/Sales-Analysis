@@ -1,1 +1,1 @@
-# Sales-Analysis
+The project is undertaken to do some Exploratory Data Analysis & Visualization on past Dataset of Sales Data. This project is undertaken to do some findings that will help to give answers to certain questions.
